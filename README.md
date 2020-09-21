@@ -35,14 +35,14 @@ git clone https://github.com/akshayaprabakaran/Silicon-Valley-Economic-Trends.gi
 
 For quick startup after cloning repo (macOS):
 
-**Database:
+**Database:**
 
 Install mongoDB
 
 mongod --dbpath=path to the database store
 
   
-**Client:****
+**Client:**
 
 cd Silicon-Valley-Economoc-Trends
 
