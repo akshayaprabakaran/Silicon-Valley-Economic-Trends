@@ -30,11 +30,15 @@ git clone https://github.com/akshayaprabakaran/Silicon-Valley-Economic-Trends.gi
 
 
 For quick startup after cloning repo (macOS):
-Database
+
+Database:
+
 Install mongoDB
+
 mongod --dbpath=<path to the database store>
   
 Client:
+
 cd Silicon-Valley-Economoc-Trends
 
 cd client 
@@ -42,6 +46,7 @@ cd client
 npm install 
 
 Server:
+
 cd Silicon-Valley-Economoc-Trends
 
 cd server 
