@@ -26,7 +26,7 @@ This website is constructed of:
 HOW TO RUN THIS APPLICATION
 
 To clone repository (macOS):
-git clone https://github.com/akshayaprabakaran/Job-Tracking-Web-Application.git
+git clone https://github.com/akshayaprabakaran/Silicon-Valley-Economic-Trends.git
 
 
 For quick startup after cloning repo (macOS):
