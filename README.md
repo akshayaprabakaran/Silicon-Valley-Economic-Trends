@@ -24,8 +24,6 @@ This website is constructed of:
 - A **Education dashboard** that details the educational growth of Silicon Valley over the years with respect to graduate rate, different levels of educational attainment, etc.
 - A **Startuo dashboard** that shows the growing innovation and startup trends in Silicon Valley.
 
-!https://www.google.com/search?q=image&tbm=isch&source=iu&ictx=1&fir=gxFxsvFBmxeZ9M%252C0JWe7yDOKrVFAM%252C_&vet=1&usg=AI4_-kReDzFRmzDAOj_DsRSOvMu2NwesqQ&sa=X&ved=2ahUKEwjPwpLt-PrrAhXEo54KHbCfBOIQ9QF6BAgNEFg&biw=1309&bih=717#imgrc=gxFxsvFBmxeZ9M
-
 **HOW TO RUN THIS APPLICATION**
 
 To clone repository (macOS):
