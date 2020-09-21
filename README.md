@@ -25,7 +25,7 @@ This website is constructed of:
 - A **Homepage** that directs the user to different dashboards.
 - A **Employment dashboard** that illustrates the employment trends of Silicon Valley with potential comparisons with other states and counties.
 - A **Education dashboard** that details the educational growth of Silicon Valley over the years with respect to graduate rate, different levels of educational attainment, etc.
-- A **Startuo dashboard** that shows the growing innovation and startup trends in Silicon Valley.
+- A **Startup dashboard** that shows the growing innovation and startup trends in Silicon Valley.
 
 **HOW TO RUN THIS APPLICATION**
 
