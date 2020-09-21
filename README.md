@@ -24,6 +24,7 @@ This website is constructed of:
 - A dashboard that shows the growing innovation and startup trends in Silicon Valley.
 
 HOW TO RUN THIS APPLICATION
+
 To clone repository (macOS):
 git clone https://github.com/akshayaprabakaran/Job-Tracking-Web-Application.git
 
