@@ -36,7 +36,9 @@ mongod --dbpath=<path to the database store>
   
 Client:
 cd Silicon-Valley-Economoc-Trends
+
 cd client 
+
 npm install 
 
 Server:
