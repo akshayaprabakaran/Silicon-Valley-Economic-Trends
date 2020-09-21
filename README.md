@@ -43,7 +43,10 @@ npm install
 
 Server:
 cd Silicon-Valley-Economoc-Trends
+
 cd server 
+
 npm install
+
 npm run dev
 
