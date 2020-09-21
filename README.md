@@ -9,11 +9,14 @@
 **TECHNOLOGY STACK**
 
 The website has 3 major components in its tech stack.
+
 **Frontend:**
 	The user interface is built using React JS. React JS provides an easy to use, flexible library which can wrap the html components and styling libraries. React JS also provides reusability which is of utmost importance in such kind of websites, where we need to display similar graph components number of times.
 	Highchart JS & Canvas JS are 2 chart libraries which can be integrated with React JS. These libraries provide the flexibility of including any kind of chart/ graph desired. They also provide different color schemes and sizing options to best suit the website.
+
 **Backend:**
 	The APIs or web services are built on NodeJS. The web server holds the main logic of extracting the information from the graph data we have and provide it to the frontend on request 
+
 **Database:**
 	The graph data is stored on MongoDB. MongoDb is a document based database which means we can store a json object into our database ,which helps us to avoid parsing of data required by NodeJS. Also helps us to alter the data easily since no schema is required.
 
